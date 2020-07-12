@@ -2,6 +2,7 @@
 ### gutHub repo: 
 https://github.com/bmaha2/Online-Offline-Budget-Trackers.git
 ### Deployed Heroku Link:
+https://stark-woodland-31402.herokuapp.com/
 
 ### Description:
 * Lets user enter deposits and expenses in offline mode
@@ -13,7 +14,6 @@ https://github.com/bmaha2/Online-Offline-Budget-Trackers.git
 
 ### Online :
 ![online](https://user-images.githubusercontent.com/58144039/87237911-c7aebf00-c3b0-11ea-9520-8574828fa345.PNG)
-
 
 ### Resources:
 https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers
